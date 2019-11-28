@@ -1,4 +1,4 @@
-# OMEN-by-HP-Laptop-15-ce007TX    Hackintosh
+# OMEN-by-HP-Laptop-15-ce007TX    Hackintosh  14.6-15.2
 
 
 中文介绍
