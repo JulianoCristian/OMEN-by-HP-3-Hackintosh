@@ -8,7 +8,7 @@
 | 产品名称暗影精灵3 | OMEN by HP Laptop 15-ce0xx                |
 | ----------------- | ----------------------------------------- |
 | BIOS              | F.17                          |
-| 处理器            | Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz |
+| 处理器            | Intel(R) Core(TM) i7-7300HQ CPU  |
 | 独立显卡           | NVIDIA GeForce GTX 1050ti                 |
 | 显卡              | Intel(R) HD Graphics 630                  |
 | 声卡              | ALC295                    |
