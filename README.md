@@ -48,6 +48,8 @@ tonymacx86[HP OMEN 15-dc电池错误](https://www.tonymacx86.com/threads/solved-
 
 ### 安装完之后可以干些什么？
 
+我也不知道我只是日常使用
+
 ### 致谢
 
 - 感谢 [Acidanthera](https://github.com/acidanthera) 提供 [AppleALC](https://github.com/acidanthera/AppleALC)，[HibernationFixup](https://github.com/acidanthera/HibernationFixup)，[Lilu](https://github.com/acidanthera/Lilu)，[OpenCorePkg](https://github.com/acidanthera/OpenCorePkg)，[VirtualSMC](https://github.com/acidanthera/VirtualSMC)，[VoodooPS2](https://github.com/acidanthera/VoodooPS2) 和 [WhateverGreen](https://github.com/acidanthera/WhateverGreen)。
