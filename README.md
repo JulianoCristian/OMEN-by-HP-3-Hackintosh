@@ -22,7 +22,7 @@
 - 电池正常
 - 休眠正常
 - 蓝牙以及无线更换了BCM94360CS2
-- 机器上~~所有接口~~均正常，除了type-c转DP输出有问题
+- 机器上~~所有接口~~均正常，已修复Type-c 但是无硬件解码
 - 有线网卡正常，无线网卡无解
 - 原生电源驱动正常，电池显示打了补丁 
 - USB已经定制热补丁没有定义接口
@@ -30,7 +30,7 @@
 ### 无效功能
 
 - 小太阳(亮度调节)正常 但是是使用USB键盘接入 去把F14\F15快捷键设置成F1\F2的
-- type-c输出dp用不了（唯一一个挂在核显输出dp的）
+- ~~type-c输出dp用不了~~（唯一一个挂在核显输出dp的）
 - 独显是没法驱动的，这个大家都知道！
 - 由于独显没法驱动，所以HDMI、miniDP 无法使用！
 - 触摸板为PS2我修复无法完美 （使用ApplePS2SmartTouchPad可以使用3指貌似，如有需求请自行替换）
@@ -56,6 +56,7 @@ tonymacx86[HP OMEN 15-dc电池错误](https://www.tonymacx86.com/threads/solved-
 - 感谢 [apianti](https://sourceforge.net/u/apianti)，[blackosx](https://sourceforge.net/u/blackosx)，[blusseau](https://sourceforge.net/u/blusseau)，[dmazar](https://sourceforge.net/u/dmazar) 和 [slice2009](https://sourceforge.net/u/slice2009) 提供 [Clover](https://sourceforge.net/projects/cloverefiboot)。
 - 感谢 [RehabMan](https://github.com/RehabMan) 提供 [EAPD-Codec-Commander](https://github.com/RehabMan/EAPD-Codec-Commander)，[OS-X-Clover-Laptop-Config](https://github.com/RehabMan/OS-X-Clover-Laptop-Config)，[OS-X-Null-Ethernet](https://github.com/RehabMan/OS-X-Null-Ethernet)，[OS-X-USB-Inject-All](https://github.com/RehabMan/OS-X-USB-Inject-All) 和 [SATA-unsupported](https://github.com/RehabMan/hack-tools/tree/master/kexts/SATA-unsupported.kext)。
 - 感谢远景论坛的各位大佬提供的教程，以及[黑果小兵](https://github.com/daliansky)的镜像。
+- 感谢Catalina黑苹果交流II群的群友 h81 4170 指出视频接口修复方法
 
 ### 常见问题
 
