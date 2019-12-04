@@ -22,7 +22,7 @@
 - 电池正常
 - 休眠正常
 - 蓝牙以及无线更换了BCM94360CS2
-- 机器上~~所有接口~~均正常，已修复Type-c 但是无硬件解码
+- 机器上~~所有接口~~均正常，已修复Type-c
 - 有线网卡正常，无线网卡无解
 - 原生电源驱动正常，电池显示打了补丁 
 - USB已经定制热补丁没有定义接口
@@ -57,6 +57,7 @@ tonymacx86[HP OMEN 15-dc电池错误](https://www.tonymacx86.com/threads/solved-
 - 感谢 [RehabMan](https://github.com/RehabMan) 提供 [EAPD-Codec-Commander](https://github.com/RehabMan/EAPD-Codec-Commander)，[OS-X-Clover-Laptop-Config](https://github.com/RehabMan/OS-X-Clover-Laptop-Config)，[OS-X-Null-Ethernet](https://github.com/RehabMan/OS-X-Null-Ethernet)，[OS-X-USB-Inject-All](https://github.com/RehabMan/OS-X-USB-Inject-All) 和 [SATA-unsupported](https://github.com/RehabMan/hack-tools/tree/master/kexts/SATA-unsupported.kext)。
 - 感谢远景论坛的各位大佬提供的教程，以及[黑果小兵](https://github.com/daliansky)的镜像。
 - 感谢Catalina黑苹果交流II群的群友 h81 4170 指出视频接口修复方法
+- 感谢远景黑苹果触摸设备交流群的群友 Leo null 点醒修复硬件解码问题
 
 ### 常见问题
 
