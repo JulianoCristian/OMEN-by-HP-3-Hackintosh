@@ -7,7 +7,7 @@
 
 | 产品名称暗影精灵3 | OMEN by HP Laptop 15-ce0xx                |
 | ----------------- | ----------------------------------------- |
-| BIOS              | F.17                          |
+| BIOS              | F.17～F.20（均可）               |
 | 处理器            | Intel(R) Core(TM) i7-7300HQ CPU  |
 | 独立显卡           | NVIDIA GeForce GTX 1050ti                 |
 | 显卡              | Intel(R) HD Graphics 630                  |
@@ -17,7 +17,7 @@
 ### 已经正常的以及一些说明
 - 已更换opencore引导 可切换系统 使用全面热补丁
 - 主要感谢 [XStar-Dev] 对opencore完善提供了全面的帮助 提供 [oc完善帮助](https://github.com/XStar-Dev/HP_OMEN-3_Hackintosh)
-- 放弃clover对维护
+- 放弃对clover的维护
 - 声卡驱动正常，没发现破音
 - 配置页面显示正常
 - 所有功能正常使用，无报错，包括APP Store、Facetime、iTunes等
