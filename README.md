@@ -12,7 +12,7 @@
 | 独立显卡           | NVIDIA GeForce GTX 1050ti                 |
 | 显卡              | Intel(R) HD Graphics 630                  |
 | 声卡              | ALC295                    |
-| 硬盘              | 970EVO 256G、HGST 1T      |
+| 硬盘              | C2000Pro 1TB、HGST 1T      |
 
 ### 已经正常的以及一些说明
 - 已更换opencore引导 可切换系统 使用全面热补丁
